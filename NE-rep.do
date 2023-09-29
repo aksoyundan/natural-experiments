@@ -1,4 +1,4 @@
-* Ozan Aksoy, prepared as a supplement to "Natural experiments"
+* Ozan Aksoy, prepared as a supplement to Aksoy (2023) "Natural experiments for sociological research"
 * required packages: rdrobust, rddensity
 * see https://rdpackages.github.io/rdrobust/ for installation instructions
 * required package: DCdensity (https://eml.berkeley.edu/~jmccrary/DCdensity/)
