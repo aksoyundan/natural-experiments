@@ -5,7 +5,7 @@
 
 version 17
 
-cd C:\Users\aksoy\Dropbox\Data_Misc\Natural-Exp\Rep
+cd ... // adjust the file path
 use tr04, clear
 
 
@@ -42,7 +42,7 @@ twoway line fhat r0 if r0>0 & $rvR, lcolor(black) lwidth(medium) ///
 
 graph save MCT, replace	
 restore
-xx
+
 // other plots
 // rdgraph2h program to automatise the figures
 
@@ -146,4 +146,4 @@ rdrobust r00 winmar04
 rdrobust F10 winmar04
 rdrobust d_rw09_3 winmar04
 rdrobust d_rm09_3 winmar04 
-xxx
+eof
