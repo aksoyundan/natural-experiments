@@ -1,4 +1,4 @@
-This folder includes the following material to replicate the results discussed in Aksoy (2023) Natural Experiments for Sociological Research, edited by Ulf Liebe
+This folder includes the following material to replicate the results discussed in Aksoy (2023) Natural Experiments for Sociological Research, edited by Ulf Liebe. The paper can be found at: https://osf.io/preprints/socarxiv/hn79d 
 
   r04.dta [dataset],
   
